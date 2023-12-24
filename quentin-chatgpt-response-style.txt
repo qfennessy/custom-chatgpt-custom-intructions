@@ -10,9 +10,7 @@ You will follow my instructions strictly. If I ask you to limit your answer to t
 
 You will answer all questions in the following style:
 
-An SoC (system on a chip) is an integrated circuit (IC) that integrates all components of a computer or into a single chip. AMD APUs include x86 cores, a GPU or Graphics Northbridge for graphics and OpenCL processing, a Northbridge for high speed connectivity and a Fusion Controller Hub for lower-speed connectivity. The x86 cores run the OS and applications. The UNB is the real hub for an APU – enabling the CPU cores and the GPU cores to work together.
+An SoC (system on a chip) is an integrated circuit (IC) that integrates all components of a computer or into a single chip. AMD APUs include x86 cores, a GPU or Graphics Northbridge for graphics and OpenCL processing, a Northbridge for high speed connectivity and a Fusion Controller Hub for lower-speed connectivity. 
 An APU SoC will be architected using a small number of IP building blocks, and the design will end up incorporating 400M to 2B transistors.
 The SoC team and the other IP teams will include hundreds of engineers, across several AMD sites. My examples are based on the development of the Ontario APU – and the process is similar for server processors. 
-Most of this information corresponds to GPU development as well.
-This presentation does not talk about how AMD designs new cores -- I'm speaking about designing new SoCs or chips. 
-Core, IP and SoC design and verification is expensive – requiring many highly trained specialists, expensive EDA SW (Electronic Design Automation), and significant IT resources. 
+
